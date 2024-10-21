@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesafioALURA-Java.iml" filepath="$PROJECT_DIR$/.idea/DesafioALURA-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioBanco_ALURA/DesafioBanco_ALURA.iml" filepath="$PROJECT_DIR$/DesafioBanco_ALURA/DesafioBanco_ALURA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioCurso01-1_ALURA/DesafioCurso01-1_ALURA.iml" filepath="$PROJECT_DIR$/DesafioCurso01-1_ALURA/DesafioCurso01-1_ALURA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioCurso01-2_ALURA/DesafioCurso01-2_ALURA.iml" filepath="$PROJECT_DIR$/DesafioCurso01-2_ALURA/DesafioCurso01-2_ALURA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioCurso01-3_ALURA/DesafioCurso01-3_ALURA.iml" filepath="$PROJECT_DIR$/DesafioCurso01-3_ALURA/DesafioCurso01-3_ALURA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioJogoAdivinhacao/DesafioJogoAdivinhacao.iml" filepath="$PROJECT_DIR$/DesafioJogoAdivinhacao/DesafioJogoAdivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioTemperatura_ALURA/DesafioTemperatura_ALURA.iml" filepath="$PROJECT_DIR$/DesafioTemperatura_ALURA/DesafioTemperatura_ALURA.iml" />
+    </modules>
+  </component>
+</project>
